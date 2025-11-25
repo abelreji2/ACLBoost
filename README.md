@@ -3,4 +3,5 @@
 ## 🚀 How to use
 
 npx expo start
+
 npx sanity dev
