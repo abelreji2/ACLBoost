@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "web": {
+      "output": "server"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "origin": "https://n"
+        }
+      ]
+    ],
+    "name": "fit-app",
+    "slug": "fit-app",
+    "android": {
+      "package": "com.anonymous.fitapp"
+    }
+  }
+}
