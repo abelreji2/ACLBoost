@@ -1,13 +1,12 @@
 # ACL Recovery Scheduling App (ACL Boost)
 
 **#Built With**
-React Native
-JavaScript
-TypeScript
-Sanity
-GPT-4o-mini API
-Clerk Authentication
-![JavaScript](https://shields.io)
+React Native  
+JavaScript  
+TypeScript  
+Sanity  
+GPT-4o-mini API  
+Clerk Authentication  
 
 ## How to Run
 
