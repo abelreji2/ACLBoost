@@ -1,8 +1,7 @@
 # ACL Recovery Scheduling App (ACL Boost)
 
 **#Built With**
-React Native
-JavaScript
+React Native/n JavaScript
 TypeScript
 Sanity
 GPT-4o-mini API
