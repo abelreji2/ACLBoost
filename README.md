@@ -1,6 +1,15 @@
 # ACL Recovery Scheduling App (ACL Boost)
 
-## 🚀 How to use
+**#Built With**
+React Native
+JavaScript
+TypeScript
+Sanity
+GPT-4o-mini API
+Clerk Authentication
+
+
+## How to Run
 
 npx expo start
 
