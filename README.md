@@ -1,4 +1,7 @@
-# ACL Recovery Scheduling App (ACL Boost)
+# A React Native app for structuring post-op ACL Recovery rehabilitation
+
+## Demo
+[![ACL Boost demo](assets/demo-thumbnail.png)]([https://youtu.be/YOUR_VIDEO_ID](https://www.youtube.com/watch?v=zRk0O8ZaggQ))
 
 **#Built With**<br>
 React Native  
