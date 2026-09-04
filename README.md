@@ -1,5 +1,5 @@
 # ACL Boost
-A React Native app for structuring post-op ACL Recovery rehabilitation
+A React Native app for structuring post-op ACL Recovery
 
 ## Features
 
