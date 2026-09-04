@@ -18,15 +18,15 @@ A React Native app for structuring post-op ACL Recovery rehabilitation
 ## Installation
 
 ​```bash  
-git clone https://github.com/user/repo.git  
-cd repo  
-npm install  
+git clone https://github.com/user/repo.git
+cd repo
+npm install
 ​```
 
 ## Usage
 
-​```bash  
-npm start   
-npx expo start   
-npx sanity dev  
+​```bash
+npm start
+npx expo start
+npx sanity dev
 ​```
