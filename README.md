@@ -18,8 +18,8 @@ A React Native app for structuring post-op ACL Recovery rehabilitation
 ## Installation
 
 ​```bash
-git clone https://github.com/user/repo.git
-cd repo
+git clone https://github.com/abelreji2/ACLBoost.git
+cd ACLBoost
 npm install
 ​```
 
