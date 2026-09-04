@@ -1,4 +1,3 @@
-<img width="301" height="654" alt="Screenshot 2026-09-03 at 10 45 41 PM" src="https://github.com/user-attachments/assets/67097cdb-8822-4e78-b2ba-533a6b012940" />
 # ACL Boost
 A React Native app for structuring post-op ACL Recovery rehabilitation
 
@@ -37,6 +36,7 @@ npx sanity dev
 <img width="198" height="419" alt="Screenshot 2026-09-03 at 10 36 59 PM" src="https://github.com/user-attachments/assets/92719592-4912-4b41-9500-1185052e3a52" />
 <img width="198" height="419" alt="Screenshot 2026-09-03 at 10 37 52 PM" src="https://github.com/user-attachments/assets/6cab34e5-735f-4f30-a68c-7c3d33ebe0fd" />
 <img width="198" height="419" alt="Screenshot 2026-09-03 at 10 38 10 PM" src="https://github.com/user-attachments/assets/e43b9f6c-fdad-4a45-980c-35a55ec54c34" />
+<img width="198" height="419" alt="Screenshot 2026-09-03 at 10 45 41 PM" src="https://github.com/user-attachments/assets/67097cdb-8822-4e78-b2ba-533a6b012940" />
 
 
 
