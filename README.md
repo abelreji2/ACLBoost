@@ -17,8 +17,7 @@ A React Native app for structuring post-op ACL Recovery rehabilitation
 
 ## Installation
 
-​```bash  
-git clone https://github.com/user/repo.git
+​```bash<br>git clone https://github.com/user/repo.git
 cd repo
 npm install
 ​```
