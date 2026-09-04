@@ -1,3 +1,4 @@
+<img width="301" height="654" alt="Screenshot 2026-09-03 at 10 45 41 PM" src="https://github.com/user-attachments/assets/67097cdb-8822-4e78-b2ba-533a6b012940" />
 # ACL Boost
 A React Native app for structuring post-op ACL Recovery rehabilitation
 
