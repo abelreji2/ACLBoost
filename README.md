@@ -1,7 +1,7 @@
 # ACL Boost
 A React Native app for structuring post-op ACL Recovery rehabilitation
 
-![React](https://shields.io)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 **#Built With**<br>
 React Native  
