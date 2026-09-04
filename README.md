@@ -25,8 +25,8 @@ npm install<br>
 
 ## Usage
 
-​```bash<br>
-npm start<br>
-npx expo start<br>
-npx sanity dev<br>
+​```bash  
+npm start  
+npx expo start  
+npx sanity dev 
 ​```
