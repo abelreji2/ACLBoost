@@ -30,7 +30,7 @@ npx expo start
 npx sanity dev  
 
 ## Screenshots
-<img width="160" height="400" alt="Screenshot 2026-09-03 at 10 35 26 PM" src="https://github.com/user-attachments/assets/a72d784a-1a69-4ca1-bd07-06b63fbc9fec" />
+<img width="198" height="419" alt="Screenshot 2026-09-03 at 10 35 26 PM" src="https://github.com/user-attachments/assets/a72d784a-1a69-4ca1-bd07-06b63fbc9fec" />
 <img width="397" height="838" alt="Screenshot 2026-09-03 at 10 35 44 PM" src="https://github.com/user-attachments/assets/1e054a4d-8b42-4ef8-b388-c92b4df91d23" />
 <img width="395" height="834" alt="Screenshot 2026-09-03 at 10 36 13 PM" src="https://github.com/user-attachments/assets/d4a734fd-02d8-49d4-8f64-d595fdee98f8" />
 <img width="395" height="834" alt="Screenshot 2026-09-03 at 10 36 59 PM" src="https://github.com/user-attachments/assets/92719592-4912-4b41-9500-1185052e3a52" />
